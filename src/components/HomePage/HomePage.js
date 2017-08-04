@@ -7,7 +7,7 @@ class HomePage extends React.Component {
         return(
             <div>
                 <Header />
-                <div className="container-fluid text-center jumbotron">
+                <div className="text-center jumbotron">
                     <h1>Samsung Support</h1>
                     <p className="text-muted">React, React-Router,Webpack, Babel...!!!</p>
                 </div>

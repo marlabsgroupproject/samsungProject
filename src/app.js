@@ -6,7 +6,7 @@ import AppRouter from "./Router";
 class App extends React.Component {
     render(){
         return(
-            <div className="container-fluid">
+            <div>
                 <AppRouter />
             </div>
         );
