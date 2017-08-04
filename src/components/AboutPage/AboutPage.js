@@ -14,7 +14,7 @@ class AboutPage extends React.Component {
                         </div>
                         <div className="col-lg-6 col-md-6 col-sm-6">
                             <h3>Name: Parth Pathak</h3>
-                            <h3>Company: Marlabs Inc.</h3>
+                            <h3>Company: Samsung</h3>
                             <h3>Email: p_pathak@outlook.com</h3>
                         </div>
                     </div>

@@ -9,7 +9,7 @@ class HomePage extends React.Component {
                 <Header />
                 <div className="container-fluid text-center jumbotron">
                     <h1>Pluralsight</h1>
-                    <p className="text-muted">React, React-Router, Flux, Webpack, Babel...!!!</p>
+                    <p className="text-muted">React, React-Router,Webpack, Babel...!!!</p>
                 </div>
             </div>
         );
