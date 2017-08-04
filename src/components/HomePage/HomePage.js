@@ -8,7 +8,7 @@ class HomePage extends React.Component {
             <div>
                 <Header />
                 <div className="container-fluid text-center jumbotron">
-                    <h1>Pluralsight</h1>
+                    <h1>Samsung Support</h1>
                     <p className="text-muted">React, React-Router,Webpack, Babel...!!!</p>
                 </div>
             </div>
